@@ -1,0 +1,18 @@
+.box{
+  width: 400px;
+  height: 400px;
+  background-color: green;
+  float: right;
+  margin: 30px 40px;
+}
+
+.box2{
+  float: middle;
+  width: 350px;
+  height: 350px;
+  background-color: yellow;
+  margin-left: 20px;
+  margin-right: 25px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

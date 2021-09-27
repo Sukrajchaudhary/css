@@ -1,0 +1,27 @@
+.table{
+  list-style-type: bold;
+  background-color: blue;
+  border:10px solid pink;
+  width: 25%;
+  height: 150px;
+  text-align: middle;
+}
+table,td,th{
+  border: 1px solid yellow;
+  text-decoration-color: blue;
+}
+table{
+  border-collapse: collapse;
+}
+th{
+  background-color: red;
+  color:white;
+  padding:5px 10px;
+}
+td{
+  background-color: green;
+
+}
+td{
+  padding: 25px 25px;
+}

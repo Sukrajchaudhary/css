@@ -1,0 +1,12 @@
+.black,.white{
+  width: 12.5%;
+  height: 165px;
+}
+.black{
+  background-color: black;
+  float:left;
+}
+.white{
+  background-color: white;
+  float: left;
+}

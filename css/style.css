@@ -1,0 +1,43 @@
+.mydiv{
+  background-color:#0000FF;
+  font-size: 20px;
+  width: 70px;
+  color: yellow;
+  text-decoration: underline;
+  text-align: right;
+  text-transform: capitalize;
+  word-spacing: 20px;
+}
+
+
+
+.mydiv2{
+  background-position: center;
+  background-color: red;
+  height: 500px;
+  width: 500px;
+  text-align: center;
+  position: middle;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+.circle{
+  background-image: url(../images/images.jfif);
+  background-color: red;
+  border:150px;
+  width:150px;
+  height: 150px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+.mydiv4{
+  background-color: gray;
+  border:20px solid:green;
+  width: 20%;
+  height: 200px;
+
+}
